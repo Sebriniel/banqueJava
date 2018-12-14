@@ -1,0 +1,5 @@
+com\banque\banqueArtifact\client\Client.class
+com\banque\banqueArtifact\HelloController.class
+com\banque\banqueArtifact\BanqueArtifactApplication.class
+com\banque\banqueArtifact\client\ClientRepository.class
+com\banque\banqueArtifact\client\ClientResource.class
